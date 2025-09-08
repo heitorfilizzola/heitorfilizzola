@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science undergraduate student with knowledge<br>in full-stack development. Proficient in backend<br>technologies like Java, Spring Boot, and Spring Security,<br>front-end with HTML, CSS, and JavaScript, and database<br>modeling with SQL. Experienced in applying these<br>skills to deliver complete web solutions from development<br>to deployment on AWS.
+Computer Science undergraduate student with knowledge in full-stack development. Proficient in backend technologies like Java, Spring Boot, and Spring Security, front-end with HTML, CSS, and JavaScript, and database modeling with SQL. Experienced in applying these skills to deliver complete web solutions from development to deployment on AWS.
 
 
 ## 🌐 Socials:
