@@ -14,6 +14,7 @@ Computer Science undergraduate student with knowledge<br>in full-stack developme
 
 ---
 [![](https://visitcount.itsvg.in/api?id=heitorfilizzola&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <picture>
@@ -21,4 +22,3 @@ Computer Science undergraduate student with knowledge<br>in full-stack developme
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heitorfilizzola/heitorfilizzola/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/heitorfilizzola/heitorfilizzola/output/github-contribution-grid-snake.svg">
 </picture>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
