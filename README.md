@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Olá, eu sou o Heitor Filizzola 👋</h1>
+  <h1>Olá, eu sou Heitor Filizzola 👋</h1>
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Computer+Science+Undergraduate;Full-Stack+%26+Backend+Developer;Java+%7C+Spring+Boot+%7C+FastAPI+%7C+Cloud;Building+robust+and+scalable+solutions" alt="Typing SVG" />
